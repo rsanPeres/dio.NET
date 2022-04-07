@@ -1,0 +1,15 @@
+/home/rsanperes/RevisaoDio/bin/Debug/net6.0/RevisaoDio
+/home/rsanperes/RevisaoDio/bin/Debug/net6.0/RevisaoDio.deps.json
+/home/rsanperes/RevisaoDio/bin/Debug/net6.0/RevisaoDio.runtimeconfig.json
+/home/rsanperes/RevisaoDio/bin/Debug/net6.0/RevisaoDio.dll
+/home/rsanperes/RevisaoDio/bin/Debug/net6.0/RevisaoDio.pdb
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.csproj.AssemblyReference.cache
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.AssemblyInfoInputs.cache
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.AssemblyInfo.cs
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.csproj.CoreCompileInputs.cache
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.dll
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/refint/RevisaoDio.dll
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.pdb
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/RevisaoDio.genruntimeconfig.cache
+/home/rsanperes/RevisaoDio/obj/Debug/net6.0/ref/RevisaoDio.dll
