@@ -4,6 +4,8 @@
 ### Links importantes
 [Link DIO](https://web.dio.me/track/banco-carrefour-woman-developer)\
 [Markdown guide](https://www.markdownguide.org/basic-syntax/)\
-[Git guide](https://github.com/git-guides)
+[Git guide](https://github.com/git-guides)\
+[.NET guide](https://docs.microsoft.com/pt-br/dotnet/)\
+[C# guide](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
 
